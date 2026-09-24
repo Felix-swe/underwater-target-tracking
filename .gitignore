@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 模型权重（需手动下载，见 README）
+*.pt
+
+# 运行输出（结果视频/标签自动生成）
+runs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
